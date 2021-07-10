@@ -1,0 +1,28 @@
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<!DOCTYPE css>
+<css>
+<head>
+<style>
+p {display: inline-block; vertical-align; top}
+
+<div class="logo">
+div {
+    padding: 1%;
+    width: 23%;}
+
+p.nav {
+  width: 23%;
+  padding: 1%
+}
+
+p.ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+p.img {
+    text-align: center;
+}
